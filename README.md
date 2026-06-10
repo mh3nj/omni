@@ -324,19 +324,19 @@ the `dist` folder contains the complete production build. upload it to any stati
 
 ```bash
 # install dependencies
-npm install
+pnpm install
 
 # run development server
-npm dev
+pnpm dev
 
 # build for production
-npm run build
+pnpm run build
 
 # preview production build
-npm run preview
+pnpm run preview
 
 # lint
-npm run lint
+pnpm run lint
 ```
 
 ### requirements

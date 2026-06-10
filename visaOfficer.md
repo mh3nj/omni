@@ -294,6 +294,7 @@ omni was built to solve a real need: a complete health tracking platform that wo
 - github: [github.com/mh3nj](https://github.com/mh3nj)
 - xing: [xing.com/profile/Mohsen_Jafari093223](https://www.xing.com/profile/Mohsen_Jafari093223/)
 - portfolio: [dahgan.com](https://dahgan.com)
+- logo: [parsegan.com](https://parsegan.com)
 
 ---
 
