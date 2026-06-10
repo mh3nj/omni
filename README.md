@@ -140,32 +140,166 @@ no analytics. no tracking pixels. no third-party apis. omni makes no network req
 <div align="center">
   <table>
     <tr>
-      <td align="center" colspan="2"><img src="/public/screenshots/dashboard.png" width="100%"><br/><sub>dashboard overview</sub></td>
-      <td align="center"><img src="/public/screenshots/organs.png" width="100%"><br/><sub>organ selection grid</sub></td>
+      <td align="center"><img src="/screenshots/1.png"><br/><sub>dashboard en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/2.png"><br/><sub>dashboard en light theme</sub></td>
     </tr>
     <tr>
-      <td align="center"><img src="/public/screenshots/glucose.png" width="100%"><br/><sub>glucose tracker with hba1c</sub></td>
-      <td align="center"><img src="/public/screenshots/blood_pressure.png" width="100%"><br/><sub>blood pressure tracker</sub></td>
-      <td align="center"><img src="/public/screenshots/food.png" width="100%"><br/><sub>food manager with iranian foods</sub></td>
+      <td align="center"><img src="/screenshots/3.png"><br/><sub>organs en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/4.png"><br/><sub>smart tools en dark theme</sub></td>
     </tr>
     <tr>
-      <td align="center"><img src="/public/screenshots/habits.png" width="100%"><br/><sub>habit tracker with streaks</sub></td>
-      <td align="center"><img src="/public/screenshots/sleep.png" width="100%"><br/><sub>sleep quality tracking</sub></td>
-      <td align="center"><img src="/public/screenshots/smart_tools.png" width="100%"><br/><sub>smart tools hub</sub></td>
+      <td align="center"><img src="/screenshots/5.png"><br/><sub>organs brain en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/6.png"><br/><sub>organs brain en dark theme log sleep</sub></td>
     </tr>
     <tr>
-      <td align="center"><img src="/public/screenshots/pill_tracker.png" width="100%"><br/><sub>medication reminders</sub></td>
-      <td align="center"><img src="/public/screenshots/voice_log.png" width="100%"><br/><sub>voice command logging</sub></td>
-      <td align="center"><img src="/public/screenshots/insulin_rotator.png" width="100%"><br/><sub>injection site rotation</sub></td>
+      <td align="center"><img src="/screenshots/7.png"><br/><sub>organs eyes en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/8.png"><br/><sub>organs eyes en dark theme log prescription</sub></td>
     </tr>
     <tr>
-      <td align="center"><img src="/public/screenshots/settings.png" width="100%"><br/><sub>settings and export</sub></td>
-      <td align="center"><img src="/public/screenshots/backup.png" width="100%"><br/><sub>backup manager</sub></td>
-      <td align="center"><img src="/public/screenshots/language.png" width="100%"><br/><sub>language switcher with swipe</sub></td>
+      <td align="center"><img src="/screenshots/9.png"><br/><sub>organs eyes en dark theme log eye exam</sub></td>
+      <td align="center"><img src="/screenshots/10.png"><br/><sub>organs ears en dark theme</sub></td>
     </tr>
     <tr>
-      <td align="center" colspan="3"><img src="/public/screenshots/mobile_menu.png" width="100%"><br/><sub>mobile hamburger menu</sub></td>
+      <td align="center"><img src="/screenshots/11.png"><br/><sub>organs ears en dark theme log tinnitus</sub></td>
+      <td align="center"><img src="/screenshots/12.png"><br/><sub>organs ears en light theme log noise exposure</sub></td>
     </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/13.png"><br/><sub>organs heart en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/14.png"><br/><sub>organs lungs en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/15.png"><br/><sub>organs lungs en dark theme log habbits</sub></td>
+      <td align="center"><img src="/screenshots/16.png"><br/><sub>organs pacnreas en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/17.png"><br/><sub>organs stomach en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/18.png"><br/><sub>organs stomach en dark theme log meal</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/19.png"><br/><sub>organs stomach en dark theme add food</sub></td>
+      <td align="center"><img src="/screenshots/20.png"><br/><sub>organs liver en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/21.png"><br/><sub>organs liver en dark theme log liver health</sub></td>
+      <td align="center"><img src="/screenshots/22.png"><br/><sub>organs kidneys en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/23.png"><br/><sub>organs intestine en light theme</sub></td>
+      <td align="center"><img src="/screenshots/24.png"><br/><sub>organs intestine en light theme log bowel movement</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/25.png"><br/><sub>organs bladder en light theme</sub></td>
+      <td align="center"><img src="/screenshots/26.png"><br/><sub>organs bladder en light theme log urination</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/27.png"><br/><sub>organs reproductive en light theme</sub></td>
+      <td align="center"><img src="/screenshots/28.png"><br/><sub>organs reproductive en light theme log cycle</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/29.png"><br/><sub>organs reproductive en light theme log sexual health</sub></td>
+      <td align="center"><img src="/screenshots/30.png"><br/><sub>organs teeth en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/31.png"><br/><sub>organs teeth en dark theme log dental</sub></td>
+      <td align="center"><img src="/screenshots/32.png"><br/><sub>organs bones en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/33.png"><br/><sub>organs bones en dark theme log weight</sub></td>
+      <td align="center"><img src="/screenshots/34.png"><br/><sub>organs muscles en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/35.png"><br/><sub>organs muscles en dark theme log activity</sub></td>
+      <td align="center"><img src="/screenshots/36.png"><br/><sub>organs skin en light theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/37.png"><br/><sub>organs skin en light theme log wound</sub></td>
+      <td align="center"><img src="/screenshots/38.png"><br/><sub>organs skin en light theme daily skin care</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/39.png"><br/><sub>organs nails en light theme</sub></td>
+      <td align="center"><img src="/screenshots/40.png"><br/><sub>organs nails en light theme log nail care</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/41.png"><br/><sub>organs nails en light theme log fungal issue</sub></td>
+      <td align="center"><img src="/screenshots/42.png"><br/><sub>settings en light theme part 1</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/43.png"><br/><sub>settings en light theme part 2</sub></td>
+      <td align="center"><img src="/screenshots/44.png"><br/><sub>smart tools pill tracker en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/45.png"><br/><sub>smart tools pill tracker en dark theme add pill</sub></td>
+      <td align="center"><img src="/screenshots/46.png"><br/><sub>smart tools doctor appointments en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/47.png"><br/><sub>smart tools doctor appointments en dark theme new appointments</sub></td>
+      <td align="center"><img src="/screenshots/48.png"><br/><sub>smart tools foot diary en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/49.png"><br/><sub>smart tools lab results en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/50.png"><br/><sub>smart tools lab results en dark theme add result</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/51.png"><br/><sub>smart tools voice log en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/52.png"><br/><sub>smart tools insulin rotator en light theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/53.png"><br/><sub>smart tools smart alerts en light theme</sub></td>
+      <td align="center"><img src="/screenshots/54.png"><br/><sub>smart tools anti stress hub en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/55.png"><br/><sub>smart tools growth tracker en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/56.png"><br/><sub>smart tools growth tracker en dark theme add reading</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/57.png"><br/><sub>smart tools notifications en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/58.png"><br/><sub>smart tools hair checker en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/59.png"><br/><sub>smart tools hair checker en dark theme log check</sub></td>
+      <td align="center"><img src="/screenshots/60.png"><br/><sub>smart tools anti bone cracking en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/61.png"><br/><sub>smart tools anti bone cracking en dark theme log today</sub></td>
+      <td align="center"><img src="/screenshots/62.png"><br/><sub>smart tools caffeine tracker en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/63.png"><br/><sub>smart tools caffeine tracker en dark theme log intake</sub></td>
+      <td align="center"><img src="/screenshots/64.png"><br/><sub>smart tools salt and sugar balance en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/65.png"><br/><sub>smart tools salt and sugar balance en dark theme log today</sub></td>
+      <td align="center"><img src="/screenshots/66.png"><br/><sub>smart tools forgetfulness en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/67.png"><br/><sub>smart tools forgetfulness en dark theme log today</sub></td>
+      <td align="center"><img src="/screenshots/68.png"><br/><sub>smart tools barbershop tracker en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/69.png"><br/><sub>smart tools barbershop tracker en dark theme log visit</sub></td>
+      <td align="center"><img src="/screenshots/70.png"><br/><sub>smart tools hand therapy en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/71.png"><br/><sub>smart tools hand therapy en dark theme log exercise</sub></td>
+      <td align="center"><img src="/screenshots/72.png"><br/><sub>smart tools hygiene and grooming en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/73.png"><br/><sub>smart tools hygiene and grooming en dark theme log today</sub></td>
+      <td align="center"><img src="/screenshots/74.png"><br/><sub>smart tools cloud backup en dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/75.png"><br/><sub>smart tools local backup en dark theme</sub></td>
+      <td align="center"><img src="/screenshots/76.png"><br/><sub>dashboard fa dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/77.png"><br/><sub>dashboard de dark theme</sub></td>
+      <td align="center"><img src="/screenshots/78.png"><br/><sub>dashboard turkce dark theme</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/screenshots/79.png"><br/><sub>dashboard ar dark theme</sub></td>
+      <td align="center"><img src="/screenshots/80.png"><br/><sub>dashboard fa light theme</sub></td>
+    </tr>
+
   </table>
 </div>
 
@@ -190,19 +324,19 @@ the `dist` folder contains the complete production build. upload it to any stati
 
 ```bash
 # install dependencies
-pnpm install
+npm install
 
 # run development server
-pnpm dev
+npm dev
 
 # build for production
-pnpm run build
+npm run build
 
 # preview production build
-pnpm run preview
+npm run preview
 
 # lint
-pnpm run lint
+npm run lint
 ```
 
 ### requirements
@@ -211,16 +345,6 @@ pnpm run lint
 - pnpm (recommended) or npm
 - modern browser (chrome, firefox, safari, edge)
 - works offline after initial load
-
-### hosting options
-
-omni can be hosted on any static hosting service.
-
-- **dahgan.com** (your current host): upload the dist folder to your web directory
-- **netlify**: drag and drop the dist folder
-- **vercel**: `vercel --prod`
-- **github pages**: push dist folder to gh-pages branch
-- **any static hosting**: works anywhere
 
 ---
 
@@ -301,7 +425,8 @@ omni/
 ├── pnpm-lock.yaml
 ├── vite.config.ts
 ├── tsconfig.json
-└── README.md
+├── README.md
+└── visaOfficer.md
 ```
 
 ---
@@ -341,6 +466,7 @@ omni was built to solve a real need: a complete health tracking platform that wo
 - github: [github.com/mh3nj](https://github.com/mh3nj)
 - xing: [xing.com/profile/Mohsen_Jafari093223](https://www.xing.com/profile/Mohsen_Jafari093223/)
 - portfolio: [dahgan.com](https://dahgan.com)
+- logo: [parsegan.com](https://parsegan.com)
 
 ---
 
@@ -362,4 +488,4 @@ it works. it's useful. it was built under conditions that would have stopped mos
 
 **omni; track everything. master your health.**
 
-*— mohsen*
+*-mh3nj*
